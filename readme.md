@@ -1,4 +1,4 @@
-It's a demo website named Creative Agency.
+It's a service website named Creative Agency.
 
 
 
